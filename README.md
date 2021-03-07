@@ -1,5 +1,6 @@
 # adaptive_auctions
 Adaptive Auctions in Advertising
+
 Implementing Bandit Algorithm in: 
 Pardoe et al, 2010, Adaptive Auction Mechanism Design and the Incorporation of Prior Knowledge, 
 INFORMS Journal on Computing Vol. 22, No. 3, Summer 2010, pp. 353–370
